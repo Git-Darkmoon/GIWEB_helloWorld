@@ -9,11 +9,7 @@ function App() {
       </h1>
       <section>
         <article className="max-w-xs lg:max-w-sm bg-white rounded-lg shadow-lg shadow-slate-500/80 hover:shadow-slate-400 hover:scale-105 transition">
-          <img
-            className="rounded-t-lg"
-            src="https://images.unsplash.com/photo-1574236170901-59c2f5c99c75?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-            alt=""
-          />
+          <img className="rounded-t-lg" src="/cardPicture.webp" alt="" />
           <div className="p-5">
             <a href="https://github.com/Git-Darkmoon">
               <h5 className="mb-2 text-2xl font-bold tracking-tight hover:underline text-gray-900 Noteworthy technology acquisitions 2021">
